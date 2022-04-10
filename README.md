@@ -137,6 +137,7 @@ console.log(res);
 ## Resources
 
 * [Website](https://fozan.gitbook.io/fozan-inc/)
+* [NPMJS](https://www.npmjs.com/package/utils-number)
 
 ## License
 
